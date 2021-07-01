@@ -45,7 +45,7 @@ Research experience
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3 -->
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -62,7 +62,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Awards
 ======
