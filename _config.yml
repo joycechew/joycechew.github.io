@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joyce Chew"
+title                    : "Joyce A. Chew"
 title_separator          : "-"
 name                     : &name "Joyce A. Chew"
 description              : &description "Applied mathematics PhD student at UCLA"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joyce A. Chew"
-  avatar           : "profile.png"
+  avatar           : "AMS_headshot.png"
   bio              : "Applied mathematics PhD student at UCLA"
   location         : "Los Angeles, CA"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "joycechew"
+  github           : # "joycechew"
   google_plus      :
   keybase          :
   instagram        :
