@@ -2,7 +2,7 @@
 title: "Sensitivity Limits for Determining 1:1 Binding Constants from Spectrophotometric Titrations via Global Analysis"
 collection: publications
 permalink: /publication/sensitivity-limits
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2019-03-19
 venue: 'Journal of Chemometrics'
 paperurl: 'https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.3119'
