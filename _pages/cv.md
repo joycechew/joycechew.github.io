@@ -70,6 +70,3 @@ Awards
 * NCWIT Collegiate Award Finalist, 2019
 * Goldwater Scholarship Honorable Mention, 2018
 * Calvin Student Research Fellowship, 2016
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
