@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Mathematics (Honors), Calvin University, 2020
 * B.A. in Chemistry, Calvin University, 2020
-* Ph.D in Applied Mathematics, University of California, Los Angeles, 2025 (expected)
+* Ph.D. in Applied Mathematics, University of California, Los Angeles, 2025 (expected)
   * Area Exams (passed Spring 2021):
     * Numerical Analysis
     * Optimization/Numerical Linear Algebra
