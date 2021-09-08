@@ -1,5 +1,6 @@
 ---
 permalink: /resources/grfp
+collection: resources
 title: "NSF GRFP Advice"
 author_profile: true
 ---

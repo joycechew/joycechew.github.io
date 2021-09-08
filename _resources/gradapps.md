@@ -1,5 +1,6 @@
 ---
 permalink: /resources/gradapps
+collection: resources
 title: "Applying to graduate school"
 author_profile: true
 ---
