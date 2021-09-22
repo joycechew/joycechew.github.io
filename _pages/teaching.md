@@ -7,11 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+{% include base_path %}
 
 Fall 2021:
 * [Math 31B](F21/31B)
