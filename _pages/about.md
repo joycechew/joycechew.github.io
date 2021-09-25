@@ -16,5 +16,6 @@ Contact Information
 * Office: Mathematical Sciences 3931
 * Office Hours (Zoom): Wednesday 4:00pm-5:00pm (31B), Thursday 10:00am-11:00am (151A)
 * In-person office hours by appointment.
+* Open office hour (Zoom): Tuesday 7:00pm-8:00pm
 
 If you do not receive an email response within 24 hours, please ping me again. I am happy to discuss math, graduate school (applying, my experience so far, and everything in between), and the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org) with any students.
