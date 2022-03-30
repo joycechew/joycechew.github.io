@@ -14,7 +14,7 @@ Contact Information
 =====
 * Email: joycechew [at] math [dot] ucla [dot] edu
 * Office: Mathematical Sciences 3931
-* Office Hours (Zoom): Wednesday 4:00pm-5:00pm (31B), Thursday 10:00am-11:00am (151A)
+* Office Hours (Zoom): Tuesday 1:30pm-2:30pm (151A), 2:30pm-3:30pm (31B)
 * In-person office hours by appointment.
 * Open office hour (Zoom): Tuesday 7:00pm-8:00pm
 

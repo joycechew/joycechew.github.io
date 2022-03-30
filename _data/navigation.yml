@@ -3,6 +3,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Mentoring"
+    url: /mentoring/
+
   - title: "Resources"
     url: /resources/
 
