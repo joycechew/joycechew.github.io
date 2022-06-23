@@ -68,6 +68,7 @@ Teaching
 
 Awards
 ======
+* Raymond Redheffer Prize (recognizes graduate student going above and beyond who taught freshman calculus course), 2022
 * NSF Graduate Research Fellowship, 2020
 * NCWIT Collegiate Award Finalist, 2019
 * Goldwater Scholarship Honorable Mention, 2018
