@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pointcloud-icml
 excerpt: ''
 date: 2022-06-21
-venue: 'Journal of Chemometrics'
+venue: 'ICML Workshop on Topology, Algebra, and Geometry in Machine Learning (2022)'
 paperurl: 'https://doi.org/10.48550/arXiv.2206.10078'
 citation: 'Chew, J.A.; Steach, H.R.; Viswanath, S.; Wu, H.-T.; Hirn, M.; Needell, D.; Krishnaswamy, S.; Perlmutter, M. The Manifold Scattering Transform for High-Dimensional Point Cloud Data. axXiv preprint, 2022.'
 ---
