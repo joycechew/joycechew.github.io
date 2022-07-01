@@ -3,11 +3,13 @@ permalink: /mentoring/
 title: "Mentoring"
 author_profile: true
 ---
+As an undergraduate, I benefitted greatly from mentorship in the form of research opportunities. I also found myself longing for a guide through the process of learning about the broader mathematical world, making decisions about my career, and applying to various programs. Therefore, I seek to serve as a mentor in various ways at UCLA. Please feel free to email me for more details about any of these programs!
 
 ## REUs (UCLA)
+As a graduate student mentor in the UCLA Computational and Applied Mathematics REU, I guide undergraduate participants through regular meetings where we review results, brainstorm approaches to obstacles, and suggest directions for further study.
 
 * 2022: AI for Holocaust Studies (with Michael Lindstrom, Michael Perlmutter, Todd Presner, and Deanna Needell)
-* 2021: California Innocence Project (with Longxiu Huang, Ben Jarman, and Deanna Needell)
+* 2021: California Innocence Project (with Longxiu Huang, Ben Jarman, and Deanna Needell) [[paper](/publication/gssnmf)]
 
 ## [Directed Reading Program at UCLA](https://www.math.ucla.edu/~drp/)
 
