@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year PhD student studying applied mathematics at UCLA. Previously, I attended Calvin University, where I obtained bachelor's degrees in mathematics and chemistry, with a minor in computer science. I am broadly interested in the mathematics of data science; I am currently working on developing manifold- and graph-based methods for feature extraction of high dimensional data, with biological applications.
+I am a rising third year PhD student studying applied mathematics at UCLA. Previously, I attended Calvin University, where I obtained bachelor's degrees in mathematics and chemistry, with a minor in computer science. I am broadly interested in the mathematics of data science; I am currently working on developing manifold- and graph-based methods for high dimensional data, with biological applications.
 
 Contact Information
 =====
