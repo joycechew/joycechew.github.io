@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-06-21
 venue: 'ICML Workshop on Topology, Algebra, and Geometry in Machine Learning'
 paperurl: 'https://doi.org/10.48550/arXiv.2206.10078'
-citation: 'Chew, J.A.; Steach, H.R.; Viswanath, S.; Wu, H.-T.; Hirn, M.; Needell, D.; Krishnaswamy, S.; Perlmutter, M. The Manifold Scattering Transform for High-Dimensional Point Cloud Data. axXiv preprint, 2022.'
+citation: 'Chew, J.A.; Steach, H.R.; Viswanath, S.; Wu, H.-T.; Hirn, M.; Needell, D.; Krishnaswamy, S.; Perlmutter, M. The Manifold Scattering Transform for High-Dimensional Point Cloud Data. arXiv preprint, 2022.'
 ---
 We present a practical scheme for implementing the manifold scattering transform for point cloud data. We show that this implementation successfully performs signal classification and manifold classification using signals on a sphere, scans of human bodies, and single-cell protein measurement data.
 
