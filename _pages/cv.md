@@ -13,15 +13,23 @@ Click [here](https://joycechew.github.io/files/JoyceChew_CV_Spring21.pdf) to dow
 
 Education
 ======
-* B.S. in Mathematics (Honors), Calvin University, 2020
-* B.A. in Chemistry, Calvin University, 2020
 * Ph.D. in Applied Mathematics, University of California, Los Angeles, 2025 (expected)
   * Area Exams (passed Spring 2021):
     * Numerical Analysis
     * Optimization/Numerical Linear Algebra
+* M.A. in Mathematics, University of California, Los Angeles, 2022
+* B.S. in Mathematics (Honors), Calvin University, 2020
+* B.A. in Chemistry, Calvin University, 2020
 
 Research experience
 ======
+* June 2021 - present: Graduate Student Researcher
+  * University of California, Los Angeles Department of Mathematics
+  * Research interests:
+    * Numerical linear algebra
+    * Stochastic iterative methods
+    * Graph learning
+
 * June 2019 - August 2019: NSF REU
   * Cornell University Department of Mathematics
   * Studied the equilibrium configurations of flexible helical springs using optimal control. Developed numerical methods to find unstable configurations and demonstrated the presence of saddle-node bifurcations in the equilibrium configurations of twisted springs.
@@ -73,3 +81,10 @@ Awards
 * NCWIT Collegiate Award Finalist, 2019
 * Goldwater Scholarship Honorable Mention, 2018
 * Calvin Student Research Fellowship, 2016
+
+Mentoring
+======
+Click [here](https://joycechew.github.io/mentoring/) for more information about each of these programs.
+* UCLA CAM REU (2021, 2022)
+* UCLA Women in Mathematics (2021-2022)
+* UCLA Directed Reading Program (2021-2022)
