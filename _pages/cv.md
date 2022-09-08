@@ -25,6 +25,7 @@ Research experience
 ======
 * June 2021 - present: Graduate Student Researcher
   * University of California, Los Angeles Department of Mathematics
+  * Supervisor: Prof. Deanna Needell
   * Research interests:
     * Numerical linear algebra
     * Stochastic iterative methods
@@ -32,20 +33,20 @@ Research experience
 
 * June 2019 - August 2019: NSF REU
   * Cornell University Department of Mathematics
-  * Studied the equilibrium configurations of flexible helical springs using optimal control. Developed numerical methods to find unstable configurations and demonstrated the presence of saddle-node bifurcations in the equilibrium configurations of twisted springs.
   * Supervisor: Dr. Andy Borum
+  * Studied the equilibrium configurations of flexible helical springs using optimal control. Developed numerical methods to find unstable configurations and demonstrated the presence of saddle-node bifurcations in the equilibrium configurations of twisted springs.
 
 * May 2018 - September 2020: Undergraduate Researcher
   * Calvin University Department of Chemistry and Biochemistry
+  * Supervisor: Prof. Douglas A. Vander Griend
   * Projects:
     * _Development of a parallelized, high-throughput website for equilibrium binding analysis:_ Applied several classes of optimization algorithms to the simultaneous determination of reaction stoichiometry and binding constants of equilibrium systems of host-guest binding. Evaluated speed, convergence, and accuracy to devise a new hybrid algorithm. Currently implementing this new methodology in a supercomputer software package to facilitate fast, high-throughput analysis via a website interface.
     * _Mathematical and computational analysis of 1:1 equilibrium binding:_ Wrote Monte Carlo simulations to determine the robustness of global analysis for determination of binding constants of 1:1 host-guest equilibrium binding. Numerically demonstrated the benefits of using mathematically-derived optimal parameters for the titration experiment.
-  * Supervisor: Dr. Douglas A. Vander Griend
 
 * May 2017 - August 2017: Undergraduate Researcher
   * Calvin University Department of Mathematics and Statistics
+  * Supervisor: Prof. James Turner
   * Worked towards a new proof of the 3-variable Moreno-Socias conjecture to prove the generalized conjecture. Used computer algebra systems to compute Grobner bases of generic ideals. Formulated a conjecture characterizing generic Grobner bases and proved the 2-variable case.
-  * Supervisor: Dr. James Turner
 
 <!-- Skills
 ======
