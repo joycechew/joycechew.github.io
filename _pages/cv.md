@@ -58,7 +58,8 @@ Research experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+{% assign sorted_posts = site.publications | sort: "date" | reverse %}
+  <ul>{% for post in sorted_posts %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
