@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://joycechew.github.io/files/JoyceChew_CV_Spring21.pdf) to download full CV (last updated: April 2021).
+Click [here](https://joycechew.github.io/files/JoyceChew_CV_Fall22.pdf) to download full CV (last updated: September 2022).
 
 Education
 ======
