@@ -29,7 +29,7 @@ Research experience
   * Research interests:
     * Numerical linear algebra
     * Stochastic iterative methods
-    * Graph learning
+    * Graph and manifold learning
 
 * June 2019 - August 2019: NSF REU
   * Cornell University Department of Mathematics
