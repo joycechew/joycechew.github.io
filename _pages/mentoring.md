@@ -8,8 +8,8 @@ As an undergraduate, I benefitted greatly from mentorship in the form of researc
 ## REUs (UCLA)
 As a graduate student mentor in the UCLA Computational and Applied Mathematics REU, I guide undergraduate participants through regular meetings where we review results, brainstorm approaches to obstacles, and suggest directions for further study.
 
-* 2022: AI for Holocaust Studies (with Dr. Michael Lindstrom, Dr. Michael Perlmutter, Prof. Todd Presner, and Prof. Deanna Needell)
-* 2021: California Innocence Project (with Dr. Longxiu Huang, Ben Jarman, and Prof. Deanna Needell) [[paper](/publication/gssnmf)]
+* 2022: AI for Holocaust Studies (with Dr. Michael Lindstrom, Dr. Michael Perlmutter, Prof. Todd Presner, and Prof. Deanna Needell) [[paper](/publications/mshtm)]
+* 2021: California Innocence Project (with Dr. Longxiu Huang, Ben Jarman, and Prof. Deanna Needell) [[paper](/publications/gssnmf)]
 
 ## [Directed Reading Program at UCLA](https://www.math.ucla.edu/~drp/)
 

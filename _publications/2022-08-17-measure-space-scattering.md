@@ -1,10 +1,10 @@
 ---
 title: "Geometric Scattering on Measure Spaces"
 collection: publications
-permalink: /publication/measure-space-scattering
+permalink: /publications/measure-space-scattering
 excerpt: ''
 date: 2022-08-17
-venue: ''
+venue: 'arXiv preprint'
 paperurl: 'https://doi.org/10.48550/arXiv.2208.08561'
 citation: 'Chew, J.A.; Hirn, M.; Krishnaswamy, S.; Needell, D.; Perlmutter, M.; Steach, H.R.; Viswanath, S.; Wu, H.-T. Geometric Scattering on Measure Spaces. Submitted for publication, 2022.'
 ---
