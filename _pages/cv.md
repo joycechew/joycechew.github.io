@@ -89,5 +89,5 @@ Mentoring
 ======
 Click [here](https://joycechew.github.io/mentoring/) for more information about each of these programs.
 * UCLA CAM REU (2021, 2022)
-* UCLA Women in Mathematics (2021-2022)
+* UCLA Women in Mathematics (2021-present)
 * UCLA Directed Reading Program (2021-2022)
