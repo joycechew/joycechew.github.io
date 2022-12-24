@@ -1,7 +1,7 @@
 ---
 title: "A reliable algorithm for calculating stoichiometry parameters in the hard modeling of spectrophotometric titration data"
 collection: publications
-permalink: /publications/stoichiometry-parameters
+url: /publications/stoichiometry-parameters
 excerpt: ''
 date: 2022-05-08
 venue: 'Journal of Chemometrics'

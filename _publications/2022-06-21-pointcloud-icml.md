@@ -1,7 +1,7 @@
 ---
 title: "The Manifold Scattering Transform for High-Dimensional Point Cloud Data"
 collection: publications
-permalink: /publications/pointcloud-icml
+url: /publications/pointcloud-icml
 excerpt: ''
 date: 2022-06-21
 venue: 'ICML Workshop on Topology, Algebra, and Geometry in Machine Learning'
