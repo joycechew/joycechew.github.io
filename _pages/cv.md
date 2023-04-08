@@ -9,19 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://joycechew.github.io/files/JoyceChew_CV_Fall22.pdf) to download full CV (last updated: September 2022).
+Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last updated: April 2023).
 
 Education
 ======
-* Ph.D. in Applied Mathematics, University of California, Los Angeles, 2025 (expected)
-  * Area Exams (passed Spring 2021):
-    * Numerical Analysis
-    * Optimization/Numerical Linear Algebra
+* Ph.D. in Mathematics, University of California, Los Angeles, 2025 (expected)
+  * Advisor: Deanna Needell
 * M.A. in Mathematics, University of California, Los Angeles, 2022
 * B.S. in Mathematics (Honors), Calvin University, 2020
 * B.A. in Chemistry, Calvin University, 2020
 
-Research experience
+<!-- Research experience
 ======
 * June 2021 - present: Graduate Student Researcher
   * University of California, Los Angeles Department of Mathematics
@@ -47,7 +45,7 @@ Research experience
   * Calvin University Department of Mathematics and Statistics
   * Supervisor: Prof. James Turner
   * Worked towards a new proof of the 3-variable Moreno-Socias conjecture to prove the generalized conjecture. Used computer algebra systems to compute Grobner bases of generic ideals. Formulated a conjecture characterizing generic Grobner bases and proved the 2-variable case.
-
+ -->
 <!-- Skills
 ======
 * Skill 1
