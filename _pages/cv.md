@@ -58,14 +58,14 @@ Education
 Publications
 ======
 {% assign sorted_posts = site.publications | sort: "date" | reverse %}
-  <ol>{% for post in sorted_posts %}
+  <ol reversed>{% for post in sorted_posts %}
     {% include archive-single-pub-cv.html %}
   {% endfor %}</ol>
 
 Talks and Presentations
 ======
 {% assign sorted_posts = site.talks | sort: "date" | reverse %}
-  <ol>{% for post in sorted_posts %}
+  <ol reversed>{% for post in sorted_posts %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ol>
 
