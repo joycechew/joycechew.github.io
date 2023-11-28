@@ -1,7 +1,7 @@
 ---
 title: "Geometric Scattering on Measure Spaces"
 collection: publications
-url: /publications/measure-space-scattering
+# url: /publications/measure-space-scattering
 excerpt: ''
 date: 2022-08-17
 venue: 'arXiv preprint'
