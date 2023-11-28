@@ -189,6 +189,10 @@ collections:
     permalink: /:collection/:path/
   journal:
     output: true
+  preprint:
+    output: true
+  conf:
+    output: true
 
 
 # Defaults
@@ -231,6 +235,33 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _journal
+  - scope:
+      path: ""
+      type: journal
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _preprints
+  - scope:
+      path: ""
+      type: preprint
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _conf
+  - scope:
+      path: ""
+      type: conf
     values:
       layout: single
       author_profile: true
