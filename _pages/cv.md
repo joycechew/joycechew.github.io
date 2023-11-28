@@ -55,9 +55,23 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Preprints
 ======
-{% assign sorted_posts = site.publications | sort: "date" | reverse %}
+{% assign sorted_posts = site.pubP | sort: "date" | reverse %}
+  <ol reversed>{% for post in sorted_posts %}
+    {% include archive-single-pub-cv.html %}
+  {% endfor %}</ol>
+
+Conference/Workshop Papers
+======
+{% assign sorted_posts = site.pubC | sort: "date" | reverse %}
+  <ol reversed>{% for post in sorted_posts %}
+    {% include archive-single-pub-cv.html %}
+  {% endfor %}</ol>
+
+Journal Papers
+======
+{% assign sorted_posts = site.pubJ | sort: "date" | reverse %}
   <ol reversed>{% for post in sorted_posts %}
     {% include archive-single-pub-cv.html %}
   {% endfor %}</ol>
