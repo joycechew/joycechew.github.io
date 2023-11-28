@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joyce A. Chew"
 title_separator          : "-"
 name                     : &name "Joyce A. Chew"
-description              : &description "Applied mathematics PhD student at UCLA"
+description              : &description "Applied mathematics PhD candidate at UCLA"
 url                      : https://joycechew.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joyce A. Chew"
   avatar           : "AMS_headshot.jpg"
-  bio              : "Applied mathematics PhD student at UCLA"
+  bio              : "Applied mathematics PhD candidate at UCLA"
   location         : "MS 6153"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -187,6 +187,8 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
+  journal:
+    output: true
 
 
 # Defaults
