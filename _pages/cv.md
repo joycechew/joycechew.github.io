@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last updated: April 2023).
+Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last updated: November 2023).
 
 Education
 ======
@@ -58,16 +58,16 @@ Education
 Publications
 ======
 {% assign sorted_posts = site.publications | sort: "date" | reverse %}
-  <ul>{% for post in sorted_posts %}
+  <ol>{% for post in sorted_posts %}
     {% include archive-single-pub-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
-Talks
+Talks and Presentations
 ======
 {% assign sorted_posts = site.talks | sort: "date" | reverse %}
-  <ul>{% for post in sorted_posts %}
+  <ol>{% for post in sorted_posts %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
 <!-- Teaching
 ======
