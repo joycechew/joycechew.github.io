@@ -1,6 +1,6 @@
 ---
 title: "Geometric Scattering on Measure Spaces"
-collection: publications
+collection: pubP
 # url: /publications/measure-space-scattering
 excerpt: ''
 date: 2022-08-17

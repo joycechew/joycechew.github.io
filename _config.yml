@@ -187,11 +187,11 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-  journal:
+  pubJ:
     output: true
-  preprint:
+  pubP:
     output: true
-  conf:
+  pubC:
     output: true
 
 
@@ -240,28 +240,28 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _journal
+  # _pubJ
   - scope:
       path: ""
-      type: journal
+      type: pubJ
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _preprints
+  # _pubP
   - scope:
       path: ""
-      type: preprint
+      type: pubP
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _conf
+  # _pubC
   - scope:
       path: ""
-      type: conf
+      type: pubC
     values:
       layout: single
       author_profile: true

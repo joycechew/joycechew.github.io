@@ -9,6 +9,6 @@ author_profile: true
 {% endif %}
 {% include base_path %}
 ## Journal Papers
-{% for post in site.journal reversed %}
+{% for post in site.pubJ reversed %}
   {% include archive-single-pub-cv.html %}
 {% endfor %}

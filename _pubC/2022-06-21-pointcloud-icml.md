@@ -1,6 +1,6 @@
 ---
 title: "The Manifold Scattering Transform for High-Dimensional Point Cloud Data"
-collection: publications
+collection: pubC
 # url: /publications/pointcloud-icml
 excerpt: ''
 date: 2022-06-21

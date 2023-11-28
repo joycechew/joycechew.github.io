@@ -1,6 +1,6 @@
 ---
 title: "Sensitivity Limits for Determining 1:1 Binding Constants from Spectrophotometric Titrations via Global Analysis"
-collection: journal
+collection: pubJ
 # url: /publications/sensitivity-limits
 excerpt: ''
 date: 2019-03-19

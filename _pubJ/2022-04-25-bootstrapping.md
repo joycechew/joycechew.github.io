@@ -1,6 +1,6 @@
 ---
 title: "Bootstrap methods for quantifying the uncertainty of binding constants in the hard modeling of spectrophotometric titration data"
-collection: journal
+collection: pubJ
 # url: /publications/bootstrapping
 excerpt: ''
 date: 2022-09-22
