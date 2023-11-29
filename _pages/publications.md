@@ -11,12 +11,12 @@ author_profile: true
 ## Preprints
 <ol reversed>{% for post in site.pubP reversed %}
   {% include archive-single-pub-cv.html %}
-{% endfor %}</ol>
+{% endfor %}
 ## Conference/Workshop Papers
-<ol reversed>{% for post in site.pubC reversed %}
+{% for post in site.pubC reversed %}
   {% include archive-single-pub-cv.html %}
-{% endfor %}</ol>
+{% endfor %}
 ## Journal Papers
-<ol reversed>{% for post in site.pubJ reversed %}
+{% for post in site.pubJ reversed %}
   {% include archive-single-pub-cv.html %}
 {% endfor %}</ol>

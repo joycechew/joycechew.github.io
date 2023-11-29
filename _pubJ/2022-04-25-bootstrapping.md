@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-09-22
 venue: 'Analytica Chimica Acta'
 paperurl: 'https://doi.org/10.1016/j.aca.2022.339834'
-citation: 'Kazmierczak, N.P.; Chew, J.A.; Vander Griend, D.A. Bootstrap methods for quantifying the uncertainty of binding constants in the hard modeling of spectrophotometric titration data. Analytica Chimica Acta, 2022, 1227:339834.'
+citation: 'Kazmierczak, N.P., Chew, J.A., Vander Griend, D.A. Analytica Chimica Acta, 2022, 1227:339834.'
 ---
 We show that the uncertainty associated with binding constants of equilibrium systems obtained via nonlinear regression is inherently asymmetric. We develop and apply bootstrapping methods to spectrophotometric titration data and show that the resulting asymmetric confidence intervals successfully capture the true uncertainty of binding constant estimation under a variety of experimental error conditions.
 
