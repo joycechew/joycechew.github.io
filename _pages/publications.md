@@ -12,7 +12,7 @@ author_profile: true
 <ol reversed>{% for post in site.pubP reversed %}
   {% include archive-single-pub-cv.html %}
 {% endfor %}
-## Conference/Workshop Papers
+{ ## Conference/Workshop Papers | markdownify }
 {% for post in site.pubC reversed %}
   {% include archive-single-pub-cv.html %}
 {% endfor %}
