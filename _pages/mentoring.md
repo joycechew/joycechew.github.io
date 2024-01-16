@@ -5,6 +5,10 @@ author_profile: true
 ---
 As an undergraduate, I benefitted greatly from mentorship in the form of research opportunities. I also found myself longing for a guide through the process of learning about the broader mathematical world, making decisions about my career, and applying to various programs. Therefore, I seek to serve as a mentor in various ways at UCLA. Please feel free to email me for more details about any of these programs!
 
+## UCLA/Los Angeles Pierce College Collaborative Undergraduate Research Experience [(NSF Award)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150195&HistoricalAwards=false)
+
+This program adapts the Research Experiences in Community Colleges (RE-C^2) model to a collaborative online program that brings together UCLA faculty, Pierce College faculty, UCLA doctoral students, and Pierce College students. As a graduate student mentor, I designed a research project and work together with two Pierce College students. This included a three-week-long summer "bootcamp" of teaching linear algebra and Python fundamentals. Our project focuses on empirical and theoretical comparison of Kaczmarz methods. 
+
 ## REUs (UCLA)
 As a graduate student mentor in the UCLA Computational and Applied Mathematics REU, I guide undergraduate participants through regular meetings where we review results, brainstorm approaches to obstacles, and suggest directions for further study.
 

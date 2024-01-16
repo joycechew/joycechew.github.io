@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last updated: November 2023).
+Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last updated: January 2024).
 
 Education
 ======
 * Ph.D. in Mathematics, University of California, Los Angeles, 2025 (expected)
   * Advisor: Deanna Needell
+* C.Phil. in Mathematics, University of California, Los Angeles, 2023
 * M.A. in Mathematics, University of California, Los Angeles, 2022
 * B.S. in Mathematics (Honors), Calvin University, 2020
 * B.A. in Chemistry, Calvin University, 2020
@@ -91,7 +92,7 @@ Talks and Presentations
 
 Awards
 ======
-* Raymond Redheffer Prize (recognizes graduate student going above and beyond who taught freshman calculus course), 2022
+* UCLA Raymond Redheffer Prize (recognizes graduate student going above and beyond who taught freshman calculus course), 2022
 * NSF Graduate Research Fellowship, 2020
 * NCWIT Collegiate Award Finalist, 2019
 * Goldwater Scholarship Honorable Mention, 2018
@@ -100,6 +101,7 @@ Awards
 Mentoring
 ======
 Click [here](https://joycechew.github.io/mentoring/) for more information about each of these programs.
+* UCLA/Los Angeles Pierce College Collaborative Undergraduate Research Experience (2023-present)
 * UCLA CAM REU (2021, 2022)
-* UCLA Women in Mathematics (2021-present)
+* UCLA Women in Mathematics (2021-2023)
 * UCLA Directed Reading Program (2021-2022)
