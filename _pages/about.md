@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate studying applied mathematics at UCLA. I work with Professor Deanna Needell, and I am supported by the NSF Graduate Research Fellowship. Previously, I attended Calvin University, where I obtained bachelor's degrees in mathematics and chemistry, with a minor in computer science. I am broadly interested in the mathematics of data science; I am currently working on various projects related to machine learning on manifolds. I am also interested in issues of bias in machine learning. 
+I am a fourth year PhD candidate studying applied mathematics at UCLA. I work with Professor Deanna Needell, and I am supported by the NSF Graduate Research Fellowship. Previously, I attended Calvin University, where I obtained bachelor's degrees in mathematics and chemistry, with a minor in computer science. I am broadly interested in the mathematics of data science; I am currently working on various projects related to machine learning on manifolds. I am also interested in low-rank matrix and tensor approximation and issues of bias in machine learning. 
 
 Contact Information
 =====
