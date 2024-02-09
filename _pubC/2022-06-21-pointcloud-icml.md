@@ -6,6 +6,7 @@ excerpt: ''
 date: 2022-06-21
 venue: 'ICML Workshop on Topology, Algebra, and Geometry in Machine Learning'
 paperurl: 'https://proceedings.mlr.press/v196/chew22a.html'
+arxivurl: 'https://doi.org/10.48550/arXiv.2206.10078'
 citation: 'Chew, J.A., Steach, H.R., Viswanath, S., Wu, H.-T., Hirn, M., Needell, D., Vesely, M.D., Krishnaswamy, S., Perlmutter, M. Topological, Algebraic and Geometric Learning Workshops 2022, volume 196, pages 67-78. PMLR, 2022.'
 ---
 We present a practical scheme for implementing the manifold scattering transform for point cloud data. We show that this implementation successfully performs signal classification and manifold classification using signals on a sphere, scans of human bodies, and single-cell protein measurement data.
