@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am not currently teaching, but I am happy to chat with past students!
+I am currently a TA for Math 31B. Please see BruinLearn for more information and resources. I am also happy to chat with past students!
 
 Past teaching:
 * [Math 31AL](31AL) (Winter 2022)
