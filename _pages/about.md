@@ -14,6 +14,6 @@ Contact Information
 =====
 * Email: joycechew [at] math [dot] ucla [dot] edu
 * Office: Mathematical Sciences 6153
-* Office Hours: Tuesdays 11:00AM-12:00pm, or by appointment.
+* Office Hours: Tuesdays 10:00AM-12:00PM, or by appointment.
 
 If you do not receive an email response within 24 hours, please ping me again. I am happy to discuss math, graduate school (applying, my experience so far, and everything in between), and the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org) with any students.
