@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last updated: January 2024).
+Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last updated: March 2025).
 
 Education
 ======
@@ -92,6 +92,7 @@ Talks and Presentations
 
 Awards
 ======
+* SIAM Student Travel Award (LA24), 2024
 * UCLA Raymond Redheffer Prize (recognizes graduate student going above and beyond who taught freshman calculus course), 2022
 * NSF Graduate Research Fellowship, 2020
 * NCWIT Collegiate Award Finalist, 2019
@@ -101,7 +102,7 @@ Awards
 Mentoring
 ======
 Click [here](https://joycechew.github.io/mentoring/) for more information about each of these programs.
-* UCLA/Los Angeles Pierce College Collaborative Undergraduate Research Experience (2023-present)
+* UCLA/Los Angeles Pierce College Collaborative Undergraduate Research Experience (2023-2024)
 * UCLA CAM REU (2021, 2022)
 * UCLA Women in Mathematics (2021-2023)
 * UCLA Directed Reading Program (2021-2022)
