@@ -19,7 +19,9 @@ When writing the research statement, I drew heavily upon the REU I participated 
 ### Other NSF GRFP advice
 [Alex Lang's website](https://www.alexhunterlang.com/nsf-fellowship) - The specifics were last updated to reflect the 2018 solicitation, so be sure to read the current solicitation carefully, but he has good general advice. He also links to several other pages, and most helpfully, hosts a database of _many_ past winners and honorable mentions.
 
-[Mallory Ladd's website](http://www.malloryladd.com/nsf-grfp-advice.html) - There is a very nice suggested timeline here, though to be honest, I did not come close to sticking to it. She also provides some past successful applications, though none are in mathematical sciences.
+[Mallory Ladd's website](https://web.archive.org/web/20240117135348/http://www.malloryladd.com/nsf-grfp-advice.html) - There is a very nice suggested timeline here, though to be honest, I did not come close to sticking to it. She also provides some past successful applications, though none are in mathematical sciences. (As of April 2025, the original website is defunct, so an Internet Archive snapshot is linked instead.)
+
+[Claire McKay Bowen's website](https://clairemckaybowen.com/fellowship/) - Comprehensive advice on all parts of the applications, with annotated excerpts from winning applications. 
 
 ### My application materials
 
