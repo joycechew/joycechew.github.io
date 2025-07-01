@@ -1,19 +1,9 @@
 ---
-permalink: /
+permalink: /about
 title: "About me"
-excerpt: "Assistant professor of mathematics & statistics at Calvin University"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-I am an assistant professor of mathematics & statistics at Calvin University. I completed my PhD in mathematics at UCLA under the supervision of [Deanna Needell](https://www.math.ucla.edu/~deanna/), where I developed and studied mathematical data analysis methods for geometrically structured data. Prior to graduate school, I attended Calvin University, where I obtained bachelor's degrees in mathematics and chemistry. I am broadly interested in the mathematics of data science; in addition to the areas of my graduate work, I am also interested in low-rank matrix and tensor approximation and issues of bias in machine learning. 
+I was born in Southern California and grew up about an hour south of Los Angeles. I moved halfway across the country to attend Calvin for my undergraduate studies; I didn't know anybody in the state of Michigan at the time, but Calvin seemed like a great fit for me in many ways. At Calvin, I completed dual bachelor's degrees in mathematics and chemistry with a minor in computer science. I was also heavily involved in chapel at Calvin -- I played drums on worship teams for all four years of my undergraduate studies, and I spent one year as a Worship Apprentice and another year as a Worship Intern with Campus Ministries. After graduating from Calvin, I started graduate school at the University of California, Los Angeles, and I earned my PhD in mathematics under the supervision of Deanna Needell. 
 
-Contact Information
-=====
-* Email: joyce [dot] chew [at] calvin [dot] edu
-* Office: North Hall 285
-* Office Hours: By appointment.
-
-If you do not receive an email response within 24 hours, please ping me again.
+Two years into graduate school, I married my husband Nathanael (also a Calvin grad!), who at the time was a chemistry graduate student at the California Institute of Technology. We enjoy board games (current favorites are Terroforming Mars and Wingspan), puzzles, and birdwatching. 
