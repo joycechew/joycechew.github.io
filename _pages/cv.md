@@ -13,7 +13,8 @@ Click [here](https://joycechew.github.io/files/CV.pdf) to download full CV (last
 
 Education
 ======
-* Ph.D. in Mathematics, University of California, Los Angeles, 2025 (expected)
+* Ph.D. in Mathematics, University of California, Los Angeles, 2025
+  * Thesis: Topics in Geometric Deep Learning and Learning on Manifolds
   * Advisor: Deanna Needell
 * C.Phil. in Mathematics, University of California, Los Angeles, 2023
 * M.A. in Mathematics, University of California, Los Angeles, 2022
@@ -92,6 +93,7 @@ Talks and Presentations
 
 Awards
 ======
+* Pacific Journal of Mathematics Dissertation Award, 2025
 * SIAM Student Travel Award (LA24), 2024
 * UCLA Raymond Redheffer Prize (recognizes graduate student going above and beyond who taught freshman calculus course), 2022
 * NSF Graduate Research Fellowship, 2020

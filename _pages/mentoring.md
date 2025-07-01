@@ -3,7 +3,7 @@ permalink: /mentoring/
 title: "Mentoring"
 author_profile: true
 ---
-As an undergraduate, I benefitted greatly from mentorship in the form of research opportunities. I also found myself longing for a guide through the process of learning about the broader mathematical world, making decisions about my career, and applying to various programs. Therefore, I seek to serve as a mentor in various ways at UCLA. Please feel free to email me for more details about any of these programs!
+As an undergraduate, I benefitted greatly from mentorship in the form of research opportunities. I also found myself longing for a guide through the process of learning about the broader mathematical world, making decisions about my career, and applying to various programs. Please feel free to email me for more details about any of these programs!
 
 ## UCLA/Los Angeles Pierce College Collaborative Undergraduate Research Experience [(NSF Award)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150195&HistoricalAwards=false)
 
