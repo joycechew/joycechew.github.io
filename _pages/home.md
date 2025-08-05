@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am an assistant professor of mathematics & statistics at Calvin University. I completed my PhD in mathematics at UCLA under the supervision of [Deanna Needell](https://www.math.ucla.edu/~deanna/), where I developed and studied mathematical data analysis methods for geometrically structured data. Prior to graduate school, I attended Calvin University, where I obtained bachelor's degrees in mathematics and chemistry. I am broadly interested in the mathematics of data science; in addition to the areas of my graduate work, I am also interested in low-rank matrix and tensor approximation and issues of bias in machine learning. 
+I am an assistant professor of mathematics & statistics at Calvin University. I completed my PhD in mathematics at UCLA under the supervision of [Deanna Needell](https://www.math.ucla.edu/~deanna/), where I developed and studied mathematical data analysis methods for geometrically structured data. I also worked on methods for topic modeling of large-scale text data. Prior to graduate school, I attended Calvin University, where I obtained bachelor's degrees in mathematics and chemistry. I am broadly interested in the mathematics of data science; in addition to the areas of my graduate work, I am also interested in low-rank matrix and tensor approximation and issues of bias in machine learning. 
 
 Contact Information
 =====
